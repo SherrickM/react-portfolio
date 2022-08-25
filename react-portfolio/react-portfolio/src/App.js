@@ -1,12 +1,15 @@
 import React from 'react'
-import Header from './components/header/header'
-import Footer from './components/footer/footer'
-import Nav from './components/nav/nav'
-import About from './compAbout fromav/nav'
+import Header from './components/header/Header'
+import Footer from './components/footer/Footer'
+import Nav from './components/nav/Nav'
+import About from './components/about/About'
 
-import Experience from './components/experience/experience'
-import Portfolio from './components/portfolio/portfolio'
-import Contact from './components/contact/contact'
+// Need to correct pathing
+import Experience from './components/experience/Experience'
+
+// Need to correct pathing
+import Portfolio from './components/portfolio/Portfolio'
+import Contact from './components/contact/Contact'
 
 
 const App = () => {
@@ -27,3 +30,5 @@ const App = () => {
     </>
   )
 }
+
+export default App

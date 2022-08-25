@@ -1,9 +1,11 @@
 import React from 'react'
 import './experience'
-const experience = () => {
+
+
+const Experience = () => {
   return (
     <div>experience</div>
   )
 }
 
-export default experience
+export default Experience 
