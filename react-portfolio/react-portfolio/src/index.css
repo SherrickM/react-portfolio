@@ -81,6 +81,38 @@ a{
   color: var(--color-primary);
   transition: var(--transition);
 }
+a:hover{
+  color: var(--color-white);
+}
+
+.btn{
+  width: max-content;
+  display: inline-block;
+  color: var(--color-primary);
+  padding: .75rem 1.2rem;
+  cursor: pointer;
+  border: 1px solid var(--color-primary);
+  transition: var(--transition);
+}
+
+.btn:hover{
+  background: var(--color-white);
+  color: var(--color-bg);
+  border-color: transparent;
+}
+
+.btn-primary{
+  background: var(--color-primary);
+  color: var(--color-bg);
+}
+
+img{
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
