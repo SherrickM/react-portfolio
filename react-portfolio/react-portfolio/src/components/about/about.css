@@ -71,3 +71,23 @@
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
 }
+
+/* media Queries  Phone*/
+@media screen and (max-width: 600px){
+  /* Need to Fix image issue */
+  .about_container{
+    width: 65%;
+    grid-template-columns: 1fr ;
+  }
+   .about_cards{
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  .about-content {
+    text-align: center;
+      }
+  .about-content p {
+    margin: 1.5rem 0;
+      }
+}
+
