@@ -1,5 +1,5 @@
 import React from 'react'
-import './about.css'
+import './about.css' 
 import Aboutmetoo from '../../assests/Aboutmetoo.png'
 import {FaAward} from 'react-icons/fa'
 import {BsFolder} from 'react-icons/bs'
@@ -46,7 +46,7 @@ const About = () => {
               <div className="about-card">
                 <BsFolder className='about-icon'/>
                 <h5> Projects</h5>
-                <small> 25+ Completed Projects</small>
+                <small> 25+ Completed</small>
 
               </div>
           </div>
