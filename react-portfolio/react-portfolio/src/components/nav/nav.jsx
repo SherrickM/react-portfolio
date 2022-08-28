@@ -11,7 +11,7 @@ import {MdOutlineMarkEmailUnread} from 'react-icons/md'
 function Nav() {
   return (
     <nav>
-      <a href="#header"><FaHome/></a>
+      <a href="#" className='active'><FaHome/></a>
       <a href="#about"><BiUser/></a>
       <a href="#experience"><BiBook/></a>
       <a href="#portfolio"><HiOutlineDesktopComputer/></a>
