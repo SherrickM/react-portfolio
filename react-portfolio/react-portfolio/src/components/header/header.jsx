@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import AboutME from '../../assests/AboutME.jpg'
+import AboutME from '../../assests/AboutME.png'
 import Socials from './Socials'
 
 function Header() {
@@ -13,8 +13,9 @@ function Header() {
       <h5 className="text-light"> Fullstack Developer</h5>
       <CTA/>
       <Socials/>
+
     <div className="me">
-      <img src={AboutME} alt="" />
+      <img src={AboutME} alt="img" />
     </div>
 
     <a href="#contact" className='scroll_down'>Scroll Down</a>
