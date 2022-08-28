@@ -6,8 +6,8 @@ import Socials from './Socials'
 
 function Header() {
   return (
-   <header id='header'>
-    <div className="continer header_container">
+   <header >
+    <div className="continer header_container" id='header'>
       <h5>Hello I'm</h5>
       <h1>Sherrick McNeal</h1>
       <h5 className="text-light"> Fullstack Developer</h5>
