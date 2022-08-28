@@ -112,8 +112,24 @@ img{
   object-fit: cover;
 }
 
+/* media Queries  Tablets*/
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+@media screen and (max-width: 1024px){
+  .container{
+    width: var(--container-width--md);
+  }
+  section{
+    margin-top: 6rem;
+  }
+}
+
+/* media Queries  Phone*/
+@media screen and (max-width: 600px){
+  .container{
+    width: var(--container-width-ms);
+  }
+  section > h2{
+    margin-top: 2rem;
+  }
+}
+
