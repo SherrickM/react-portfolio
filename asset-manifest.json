@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.daf9a216.css",
+    "main.js": "/react-portfolio/static/js/main.bd7153a5.js",
+    "static/media/Aboutmetoo.png": "/react-portfolio/static/media/Aboutmetoo.d8a3589b451c39b9630e.png",
+    "static/media/AboutME.png": "/react-portfolio/static/media/AboutME.324dee4d9f9fc38e84bc.png",
+    "static/media/HomeMade.jpg": "/react-portfolio/static/media/HomeMade.6e20c6691a949d69876d.jpg",
+    "static/media/weatherApp.jpg": "/react-portfolio/static/media/weatherApp.976462eae22bc42b1eb2.jpg",
+    "static/media/politeMail.jpg": "/react-portfolio/static/media/politeMail.d73c28bd0c1e03f13780.jpg",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.e193739b8e60f26609a5.pdf",
+    "static/media/SumItUp.jpg": "/react-portfolio/static/media/SumItUp.431f7f68a8fe571c0a5e.jpg",
+    "static/media/NoteTaker.jpg": "/react-portfolio/static/media/NoteTaker.c1a81a27b1ef15ace758.jpg",
+    "static/media/codeQuiz.jpg": "/react-portfolio/static/media/codeQuiz.11b78e8ba9f1ade9bffa.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.daf9a216.css.map": "/react-portfolio/static/css/main.daf9a216.css.map",
+    "main.bd7153a5.js.map": "/react-portfolio/static/js/main.bd7153a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf9a216.css",
+    "static/js/main.bd7153a5.js"
+  ]
+}
