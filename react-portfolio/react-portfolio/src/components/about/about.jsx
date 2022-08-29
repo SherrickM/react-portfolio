@@ -39,7 +39,8 @@ const About = () => {
                 <div className="about-card">
                   <BsEyeglasses className='about-icon'/>
                   <h5> Focus </h5>
-                <small> UX/UI </small>
+                {/* <small> UX/UI </small> */}
+                <small> Web Development </small>
 
                 </div>
                 {/* Card 3 */}

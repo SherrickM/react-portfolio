@@ -42,3 +42,21 @@
   width: 100%;
 
 }
+
+/* media Queries  Tablets*/
+
+@media screen and (max-width: 1024px){
+  .portfolio_container{
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+}
+
+/* media Queries  Phone*/
+@media screen and (max-width: 500px){
+  .portfolio_container{
+    grid-template-columns: 1fr ;
+    gap: 1;
+  }
+ 
+}
