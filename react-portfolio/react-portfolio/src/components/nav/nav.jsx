@@ -17,7 +17,7 @@ function Nav() {
       <a href="#about"><BiUser/></a>
       {/* <a href="#experience"><BiBook/></a> */}
       <a href="#portfolio"><HiOutlineDesktopComputer/></a>
-      <a href="#contact"><MdOutlineMarkEmailUnread/></a>
+      <a href="mailto:smcneal89@gmail.com"><MdOutlineMarkEmailUnread/></a>
     </nav>
   )
 }

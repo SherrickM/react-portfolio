@@ -5,7 +5,7 @@ import Nav from './components/nav/Nav'
 import About from './components/about/About'
 // import Experience from './components/experience/Experience'
 import Portfolio from './components/portfolio/Portfolio'
-import Contact from './components/contact/Contact'
+// import Contact from './components/contact/Contact'
 
 
 const App = () => {
@@ -22,7 +22,10 @@ const App = () => {
     {/* <Services/> */}
       
     <Portfolio/>
-    <Contact/>
+
+     {/* Contact Form will be added for 2.0 release */}
+    {/* <Contact/> */}
+
     <Footer/>
        
     </>
