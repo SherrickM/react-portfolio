@@ -13,11 +13,11 @@ function Nav() {
   // const [activeNav,setActiveNav] = useState('#')
   return (
     <nav>
-      <a href="#header"><FaHome/></a>
-      <a href="#about"><BiUser/></a>
+      <a href="/"><FaHome/></a>
+      <a href="/about"><BiUser/></a>
       {/* <a href="#experience"><BiBook/></a> */}
-      <a href="#portfolio"><HiOutlineDesktopComputer/></a>
-      <a href="mailto:smcneal89@gmail.com"><MdOutlineMarkEmailUnread/></a>
+      <a href="/portfolio"><HiOutlineDesktopComputer/></a>
+      <a href="/contact"><MdOutlineMarkEmailUnread/></a>
     </nav>
   )
 }

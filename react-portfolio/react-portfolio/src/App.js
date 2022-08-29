@@ -1,43 +1,26 @@
-import { BrowserRouter , Route, Routes} from 'react-router-dom'
-import Header from './components/header/Header'
-import Nav from './components/nav/Nav'
-import About from './components/About/About'
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Header from "./components/header/Header";
+import Nav from "./components/nav/Nav";
+import About from "./components/About/About";
 // import Experience from './components/experience/Experience'
-import Portfolio from './components/portfolio/Portfolio'
-import Footer from './components/footer/Footer'
-// import Contact from './components/contact/Contact'
-
+import Portfolio from "./components/portfolio/Portfolio";
+import Footer from "./components/footer/Footer";
+import Contact from "./components/Contact/Contact";
 
 const App = () => {
-  return(
+  return (
     <BrowserRouter>
-      <Header/>
-    <Nav/>
+      <Nav />
 
-
-    {/* Experience will be added for 2.0 release */}
-    {/* <Experience/> */}
-    
-    {/* Services will be added for 2.0 release */}
-    {/* <Services/> */}
-      
-
-
-     {/* Contact Form will be added for 2.0 release */}
-    {/* <Contact/> */}
-
-    <Footer/>
-    <Routes>
-      <Route path='/' element={}/>
-      <Route path='/about' element={<About/>}/>
-      <Route path='/portfolio' element={<Portfolio/>}/>
-      <Route path='/contact' element={<Contact />}/>
-    </Routes>
+      <Routes>
+        <Route path="/" element={<Header />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+      <Footer />
     </BrowserRouter>
-  
-       
-    
-  )
-}
+  );
+};
 
-export default App
+export default App;
