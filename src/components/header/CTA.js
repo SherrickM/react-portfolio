@@ -1,5 +1,5 @@
-import React from 'react'
-import Resume from '../../assests/Resume.pdf'
+
+
 
 function CTA() {
   return (
