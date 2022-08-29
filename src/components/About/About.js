@@ -1,9 +1,7 @@
 import React from 'react'
 import './about.css' 
 import Aboutmetoo from '../../assets/Aboutmetoo.png'
-import {FaAward} from 'react-icons/fa'
-import {BsFolder} from 'react-icons/bs'
-import {BsEyeglasses} from 'react-icons/bs'
+
 
 
 
@@ -29,7 +27,7 @@ const About = () => {
           <div className="about_cards">
               {/* Card 1 */}
               <div className="about-card">
-                <FaAward className='about-icon'/>
+                
                 <h5> Experience</h5>
                 <small> 2+ Years</small>
 
@@ -37,7 +35,7 @@ const About = () => {
 
                 {/* Card 2 */}
                 <div className="about-card">
-                  <BsEyeglasses className='about-icon'/>
+                  
                   <h5> Focus </h5>
                 {/* <small> UX/UI </small> */}
                 <small> Web Development </small>
@@ -45,7 +43,7 @@ const About = () => {
                 </div>
                 {/* Card 3 */}
               <div className="about-card">
-                <BsFolder className='about-icon'/>
+                
                 <h5> Projects</h5>
                 <small> 25+ Completed</small>
 

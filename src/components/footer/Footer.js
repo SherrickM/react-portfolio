@@ -1,10 +1,7 @@
 import React from 'react'
 import './footer.css'
 
-import {BsLinkedin} from 'react-icons/bs'
-import {FaGithub} from  'react-icons/fa'
-import {TiSocialInstagramCircular} from 'react-icons/ti'
-import {FaFacebookF} from 'react-icons/fa'
+
 
 function Footer() {
   return (
@@ -23,10 +20,10 @@ function Footer() {
 
     <div className="footer_socials">  
         
-        <a href="https://www.facebook.com/sherrick.marquis/"><FaFacebookF/></a>
-        <a href="https://www.linkedin.com/in/sherrick-mcneal-725183193/" ><BsLinkedin/></a>
-        <a href="https://github.com/SherrickM/" ><FaGithub/></a>
-        <a href="https://www.instagram.com/s.marquis_" ><TiSocialInstagramCircular/></a>
+        <a href="https://www.facebook.com/sherrick.marquis/"><i class="fa-brands fa-facebook-f"></i></a>
+        <a href="https://www.linkedin.com/in/sherrick-mcneal-725183193/" ><i class="fa-brands fa-linkedin-in"></i></a>
+        <a href="https://github.com/SherrickM/" ><i class="fa-brands fa-github"></i></a>
+        <a href="https://www.instagram.com/s.marquis_" ><i class="fa-brands fa-instagram"></i></a>
         
      </div>
 

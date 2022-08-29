@@ -6,8 +6,7 @@ import weatherApp from '../../assets/weatherApp.jpg'
 import NoteTaker from '../../assets/NoteTaker.jpg'
 import politeMail from '../../assets/politeMail.jpg'
 import SumItUp from '../../assets/SumItUp.jpg'
-import {FaGithub} from  'react-icons/fa'
-import {BiMoviePlay} from  'react-icons/bi'
+
 
 
 
@@ -26,8 +25,8 @@ function Portfolio() {
               </div>
               <h3>Polite-Mail</h3>
                 <div className="portfolio-item-cta">
-                  <a href="https://github.com/SherrickM/polite-mail" className='about-icon'><FaGithub/></a>
-                  <a href="https://polite-mail.herokuapp.com/" className='about-icon'><BiMoviePlay/></a>
+                  <a href="https://github.com/SherrickM/polite-mail" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                  <a href="https://polite-mail.herokuapp.com/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
                 </div>
           </div>
 
@@ -39,8 +38,8 @@ function Portfolio() {
               <h3>Sum It Up</h3>
               <div className="portfolio-item-cta">
 
-                <a href="https://github.com/SherrickM/sum-it-up" className='about-icon'><FaGithub/></a>
-                <a href="https://sum-it-up2.herokuapp.com/" className='about-icon'><BiMoviePlay/></a>
+                <a href="https://github.com/SherrickM/sum-it-up" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                <a href="https://sum-it-up2.herokuapp.com/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
               </div>
           </div>
 
@@ -51,8 +50,8 @@ function Portfolio() {
               </div>
               <h3>HomeMade</h3>
                 <div className="portfolio-item-cta">
-                  <a href="https://github.com/SherrickM/homemade" className='about-icon'><FaGithub/></a>
-                  <a href="https://sherrickm.github.io/homemade/" className='about-icon'><BiMoviePlay/></a>
+                  <a href="https://github.com/SherrickM/homemade" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                  <a href="https://sherrickm.github.io/homemade/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
                 </div>
             </div>
 
@@ -63,8 +62,8 @@ function Portfolio() {
               </div>
               <h3>Code Quiz</h3>
                 <div className="portfolio-item-cta">
-                  <a href="https://github.com/SherrickM/code-quiz-project" className='about-icon'><FaGithub/></a>
-                  <a href="https://sherrickm.github.io/code-quiz-project/" className='about-icon'><BiMoviePlay/></a>
+                  <a href="https://github.com/SherrickM/code-quiz-project" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                  <a href="https://sherrickm.github.io/code-quiz-project/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
                 </div>
           </div>
 
@@ -75,8 +74,8 @@ function Portfolio() {
               </div>
               <h3>Weather Dashboard</h3>
                 <div className="portfolio-item-cta">
-                  <a href="https://github.com/SherrickM/weather-dashboard" className='about-icon'><FaGithub/></a>
-                  <a href="https://sherrickm.github.io/weather-dashboard/" className='about-icon'><BiMoviePlay/></a>
+                  <a href="https://github.com/SherrickM/weather-dashboard" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                  <a href="https://sherrickm.github.io/weather-dashboard/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
                 </div>
           </div>
 
@@ -87,8 +86,8 @@ function Portfolio() {
               </div>
               <h3>Note Taker</h3>
                 <div className="portfolio-item-cta">
-                  <a href="https://github.com/SherrickM/note-taker" className='about-icon'><FaGithub/></a>
-                  <a href="https://guarded-springs-98042.herokuapp.com/" className='about-icon'><BiMoviePlay/></a>
+                  <a href="https://github.com/SherrickM/note-taker" className='about-icon'><i class="fa-brands fa-github"></i></a>
+                  <a href="https://guarded-springs-98042.herokuapp.com/" className='about-icon'><i class="fa-solid fa-laptop"></i></a>
                 </div>
           </div>
 
