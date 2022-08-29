@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.daf9a216.css",
-    "main.js": "/static/js/main.ba362f72.js",
+    "main.js": "/static/js/main.52b2f15a.js",
     "static/media/Aboutmetoo.png": "/static/media/Aboutmetoo.d8a3589b451c39b9630e.png",
     "static/media/AboutME.png": "/static/media/AboutME.324dee4d9f9fc38e84bc.png",
     "static/media/HomeMade.jpg": "/static/media/HomeMade.6e20c6691a949d69876d.jpg",
@@ -13,10 +13,10 @@
     "static/media/codeQuiz.jpg": "/static/media/codeQuiz.11b78e8ba9f1ade9bffa.jpg",
     "index.html": "/index.html",
     "main.daf9a216.css.map": "/static/css/main.daf9a216.css.map",
-    "main.ba362f72.js.map": "/static/js/main.ba362f72.js.map"
+    "main.52b2f15a.js.map": "/static/js/main.52b2f15a.js.map"
   },
   "entrypoints": [
     "static/css/main.daf9a216.css",
-    "static/js/main.ba362f72.js"
+    "static/js/main.52b2f15a.js"
   ]
 }
