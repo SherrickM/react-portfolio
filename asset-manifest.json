@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daf9a216.css",
+    "main.js": "/static/js/main.ba362f72.js",
+    "static/media/Aboutmetoo.png": "/static/media/Aboutmetoo.d8a3589b451c39b9630e.png",
+    "static/media/AboutME.png": "/static/media/AboutME.324dee4d9f9fc38e84bc.png",
+    "static/media/HomeMade.jpg": "/static/media/HomeMade.6e20c6691a949d69876d.jpg",
+    "static/media/weatherApp.jpg": "/static/media/weatherApp.976462eae22bc42b1eb2.jpg",
+    "static/media/politeMail.jpg": "/static/media/politeMail.d73c28bd0c1e03f13780.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.e193739b8e60f26609a5.pdf",
+    "static/media/SumItUp.jpg": "/static/media/SumItUp.431f7f68a8fe571c0a5e.jpg",
+    "static/media/NoteTaker.jpg": "/static/media/NoteTaker.c1a81a27b1ef15ace758.jpg",
+    "static/media/codeQuiz.jpg": "/static/media/codeQuiz.11b78e8ba9f1ade9bffa.jpg",
+    "index.html": "/index.html",
+    "main.daf9a216.css.map": "/static/css/main.daf9a216.css.map",
+    "main.ba362f72.js.map": "/static/js/main.ba362f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf9a216.css",
+    "static/js/main.ba362f72.js"
+  ]
+}
