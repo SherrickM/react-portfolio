@@ -11,11 +11,16 @@
 }
 /* Colors To be Used thoughout project */
 :root{
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4bd5ff;
+
+  --color-bg: #5d6d74;
+  /* --color-bg: #1f1f38; */
+  /* --color-bg-variant: #2c2c6c; */
+  --color-bg-variant: #Be6134;
+  /* --color-primary: #4bd5ff; */
+  --color-primary: #b6a89b;
   --color-primary-variant: rgba(77,181,255,.4);
-  --color-white: #fff;
+  /* --color-white: #fff; */
+  --color-white: #f0e7db;
   --color-light: rgba(255,255,255,.6);
   
   --transition: all 400ms ease;
@@ -38,10 +43,6 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-
-
- 
- 
 }
 
 /* General Container Styles */
