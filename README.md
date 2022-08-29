@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React Portfolio
+
+
+## Deployed Application
+
+[React-Portfolio](https://sherrickportfolio.herokuapp.com/)
+
+## REPO
+
+[GITHUB](https://github.com/SherrickM/react-portfolio)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
