@@ -9,7 +9,9 @@ import {FaFacebookF} from 'react-icons/fa'
 function Footer() {
   return (
     <footer>
+      
       <a href="#header" className='footer_logo'>Code by SM2 </a>
+      
       
       <ul className="permalinks">
        
