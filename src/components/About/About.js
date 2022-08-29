@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css' 
-import Aboutmetoo from '../../assests/Aboutmetoo.png'
+import Aboutmetoo from '../../assets/Aboutmetoo.png'
 import {FaAward} from 'react-icons/fa'
 import {BsFolder} from 'react-icons/bs'
 import {BsEyeglasses} from 'react-icons/bs'
