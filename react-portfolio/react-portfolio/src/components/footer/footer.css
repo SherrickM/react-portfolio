@@ -35,7 +35,7 @@ footer a{
   display: flex;
   justify-content: center;
   gap: 1rem;
-  margin-bottom: 4rem ;
+  margin-bottom: 4rem;
   color: var(--color-primary);
   font-size: 2rem;
 
@@ -43,8 +43,8 @@ footer a{
 
 .footer_socials a{
   background: var(--color-bg);
-  color: var(--color-primary) ;
-  padding:.8rem ;
+  color: var(--color-primary);
+  padding:.8rem;
   border-radius: .7rem;
   display: flex;
   border: 1px solid transparent;

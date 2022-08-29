@@ -55,7 +55,7 @@
 /* media Queries  Phone*/
 @media screen and (max-width: 500px){
   .portfolio_container{
-    grid-template-columns: 1fr ;
+    grid-template-columns: 1fr;
     gap: 1;
   }
  
